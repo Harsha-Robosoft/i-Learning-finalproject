@@ -27,6 +27,22 @@ class AboutSubjectTableViewCell: UITableViewCell {
     
     @IBOutlet weak var backView: UIView!
     
-//    @IBOutlet weak var progressBarCircleView: ProgressBarView!
  
+    
+    @IBOutlet weak var click1: UIImageView!
+    @IBOutlet weak var round1: UIImageView!
+    
+    @IBOutlet weak var click2: UIImageView!
+    @IBOutlet weak var round2: UIImageView!
+    
+    @IBOutlet weak var click3: UIImageView!
+    @IBOutlet weak var round3: UIImageView!
+    
+    @IBOutlet weak var click4: UIImageView!
+    @IBOutlet weak var round4: UIImageView!
+    
+    
+    
+     
+    
 }
