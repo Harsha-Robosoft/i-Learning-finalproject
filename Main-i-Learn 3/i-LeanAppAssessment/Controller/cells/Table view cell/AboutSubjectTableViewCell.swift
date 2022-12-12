@@ -27,6 +27,5 @@ class AboutSubjectTableViewCell: UITableViewCell {
     
     @IBOutlet weak var backView: UIView!
     
-//    @IBOutlet weak var progressBarCircleView: ProgressBarView!
  
 }

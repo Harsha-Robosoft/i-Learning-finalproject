@@ -39,10 +39,10 @@ func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> U
             
             self.navigationController?.pushViewController(vc, animated: true)
         }
-        
+     
     }
     
-    
+
     
     
 }

@@ -106,5 +106,14 @@ extension AboutSubjectViewController{
         return cell
         
     }
+    func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
+        let detailsVc = self.storyboard?.instantiateViewController(withIdentifier: "LessonTestViewController") as? LessonTestViewController
+        
+        if let vc = detailsVc {
+            
+            self.navigationController?.pushViewController(vc, animated: true)
+        }
+     
+    }
     
 }
