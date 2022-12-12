@@ -103,6 +103,12 @@ extension AboutSubjectViewController{
         cell.backView.layer.masksToBounds = true
         cell.backView.layer.cornerRadius = 15.0
         
+        cell.click1.isHidden = false
+        cell.round1.isHidden = true
+        
+        cell.round2.layer.cornerRadius = 4.0
+        cell.round3.layer.cornerRadius = 4.0
+        cell.round4.layer.cornerRadius = 4.0
         return cell
         
     }

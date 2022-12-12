@@ -34,9 +34,11 @@ func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> U
     func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath) {
         
         let detailsVc = self.storyboard?.instantiateViewController(withIdentifier: "SubjectDetailsViewController") as? SubjectDetailsViewController
-        
+        print("tap tap tap")
+
         if let vc = detailsVc {
-            
+            print("tap tap tap1111")
+
             self.navigationController?.pushViewController(vc, animated: true)
         }
      

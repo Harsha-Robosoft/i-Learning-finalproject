@@ -9,6 +9,9 @@
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
     <customFonts key="customFonts">
+        <array key="Rubik-Light.ttf">
+            <string>Rubik-Light</string>
+        </array>
         <array key="Rubik-Medium.ttf">
             <string>Rubik-Medium</string>
         </array>
@@ -19,7 +22,6 @@
             <string>Rubik-SemiBold</string>
         </array>
         <array key="Rubik-VariableFont_wght.ttf">
-            <string>Rubik-Light</string>
             <string>RubikRoman-Regular</string>
         </array>
     </customFonts>
@@ -3499,8 +3501,19 @@ Food Chain</string>
                                             <outlet property="chapterThreeName" destination="K05-4X-E3W" id="IEJ-VX-vv7"/>
                                             <outlet property="chapterTwoDescription" destination="x7n-8W-dg8" id="R6k-De-vJu"/>
                                             <outlet property="chapterTwoName" destination="yz4-et-MfL" id="II8-1I-XSQ"/>
+                                            <outlet property="click1" destination="CLv-CP-OnX" id="Z6R-ys-UWc"/>
+                                            <outlet property="click2" destination="v0Z-IW-9Q3" id="ifl-PN-753"/>
+                                            <outlet property="click3" destination="bzC-au-UFb" id="lxc-IA-bGK"/>
+                                            <outlet property="click4" destination="13C-8e-mox" id="37G-An-7mF"/>
                                             <outlet property="lessonName" destination="YaL-j8-8aU" id="bEe-1g-tqU"/>
                                             <outlet property="lessonNumber" destination="9bH-Zy-WDt" id="gaT-ja-C59"/>
+<<<<<<< HEAD
+=======
+                                            <outlet property="round1" destination="5VV-p9-0Xb" id="eCy-ob-Pjw"/>
+                                            <outlet property="round2" destination="CFj-tK-JHz" id="I3H-RA-Yuj"/>
+                                            <outlet property="round3" destination="XUj-Bg-doI" id="fKZ-az-sxm"/>
+                                            <outlet property="round4" destination="KHl-e3-RKo" id="JZb-gY-8qS"/>
+>>>>>>> harsha11
                                         </connections>
                                     </tableViewCell>
                                 </prototypes>

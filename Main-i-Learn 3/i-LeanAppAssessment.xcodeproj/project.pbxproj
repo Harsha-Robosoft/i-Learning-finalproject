@@ -27,6 +27,12 @@
 		7786FC902945ABC200A0B956 /* AboutSubjectCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7786FC8F2945ABC200A0B956 /* AboutSubjectCollectionViewCell.swift */; };
 		7786FC962945B0F700A0B956 /* AboutSubjectTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7786FC952945B0F700A0B956 /* AboutSubjectTableViewCell.swift */; };
 		778E6B4929445F0200A44471 /* CreatePasswordViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 778E6B4829445F0200A44471 /* CreatePasswordViewModel.swift */; };
+<<<<<<< HEAD
+=======
+		779C8FEF294727AD00B233EF /* KeyChainFIle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779C8FEE294727AD00B233EF /* KeyChainFIle.swift */; };
+		779C8FF2294727B400B233EF /* SkipButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779C8FF1294727B400B233EF /* SkipButton.swift */; };
+		779C8FF5294727B800B233EF /* SkipCustomButtob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 779C8FF4294727B800B233EF /* SkipCustomButtob.swift */; };
+>>>>>>> harsha11
 		77C73D8A2944A1CB003031EF /* SubjectDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C73D892944A1CB003031EF /* SubjectDetailsViewController.swift */; };
 		77C73D902944A8E5003031EF /* StudyingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C73D8F2944A8E5003031EF /* StudyingViewController.swift */; };
 		77C73D932944A945003031EF /* LikedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77C73D922944A945003031EF /* LikedViewController.swift */; };
@@ -119,6 +125,12 @@
 		7786FC8F2945ABC200A0B956 /* AboutSubjectCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSubjectCollectionViewCell.swift; sourceTree = "<group>"; };
 		7786FC952945B0F700A0B956 /* AboutSubjectTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutSubjectTableViewCell.swift; sourceTree = "<group>"; };
 		778E6B4829445F0200A44471 /* CreatePasswordViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatePasswordViewModel.swift; sourceTree = "<group>"; };
+<<<<<<< HEAD
+=======
+		779C8FEE294727AD00B233EF /* KeyChainFIle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = KeyChainFIle.swift; path = "../../../../../../Users/harsharmundaragi/Desktop/zip/Main-i-Learn/i-LeanAppAssessment/Key chain/KeyChainFIle.swift"; sourceTree = "<group>"; };
+		779C8FF1294727B400B233EF /* SkipButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SkipButton.swift; path = "../../../../../../Users/harsharmundaragi/Desktop/zip/Main-i-Learn/i-LeanAppAssessment/Custom button/SkipButton.swift"; sourceTree = "<group>"; };
+		779C8FF4294727B800B233EF /* SkipCustomButtob.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SkipCustomButtob.swift; path = "../../../../../../Users/harsharmundaragi/Desktop/zip/Main-i-Learn/i-LeanAppAssessment/Custom button/SkipCustomButtob.swift"; sourceTree = "<group>"; };
+>>>>>>> harsha11
 		77C73D892944A1CB003031EF /* SubjectDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SubjectDetailsViewController.swift; sourceTree = "<group>"; };
 		77C73D8F2944A8E5003031EF /* StudyingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StudyingViewController.swift; sourceTree = "<group>"; };
 		77C73D922944A945003031EF /* LikedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LikedViewController.swift; sourceTree = "<group>"; };
@@ -280,7 +292,11 @@
 		779C8FD62946E2FD00B233EF /* Key chain */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				83FE356C29472B5400B557CC /* KeyChainFile.swift */,
+=======
+				779C8FEE294727AD00B233EF /* KeyChainFIle.swift */,
+>>>>>>> harsha11
 			);
 			path = "Key chain";
 			sourceTree = "<group>";
@@ -288,9 +304,14 @@
 		77C73D952944AA49003031EF /* Custom button */ = {
 			isa = PBXGroup;
 			children = (
+<<<<<<< HEAD
 				83FE357329472B6700B557CC /* SkipCustomButtob.swift */,
 				83FE357029472B6200B557CC /* SkipButton.swift */,
 				83FE357629472C1700B557CC /* CustomButton.swift */,
+=======
+				779C8FF4294727B800B233EF /* SkipCustomButtob.swift */,
+				779C8FF1294727B400B233EF /* SkipButton.swift */,
+>>>>>>> harsha11
 			);
 			path = "Custom button";
 			sourceTree = "<group>";
@@ -621,7 +642,13 @@
 				77F6FAE6293F204100EBD0A9 /* signUpNetwork.swift in Sources */,
 				77517EC6293F8841002FED03 /* HomeScreenViewController.swift in Sources */,
 				775C2BF829408A5C003E7405 /* OnBoardingOneViewController.swift in Sources */,
+				779C8FF5294727B800B233EF /* SkipCustomButtob.swift in Sources */,
+				779C8FF2294727B400B233EF /* SkipButton.swift in Sources */,
 				777886262940DCA9001E7E1F /* signInViewModel.swift in Sources */,
+<<<<<<< HEAD
+=======
+				779C8FEF294727AD00B233EF /* KeyChainFIle.swift in Sources */,
+>>>>>>> harsha11
 				77F6FAE2293F200800EBD0A9 /* signUpModel.swift in Sources */,
 				775C2BF429404D31003E7405 /* HomeScreenCollectionViewCell.swift in Sources */,
 				77E0BC092940A6E400CA0EF0 /* NotificationViewController.swift in Sources */,
